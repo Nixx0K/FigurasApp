@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FigurasApp</string>
+    <string name="list_title">List of figures</string>
+    <string name="detail_title">Figure Detail</string>
+    <string name="email_button">Send Email</string>
+</resources>
